@@ -3,7 +3,7 @@ This project aims to develop a simple online shopping application. It covers a w
 
 ## Project Architecture
 
-![Project Architecture](https://app.eraser.io/workspace/7V6uY8M4CHVv02TeXbuj?elements=TJtgB8IYXCNZfnexvzx0Hw)
+![Project Architecture Diagram](architecture-diagram.png)
 
 Refer to the provided architecture diagrams to understand how different services like Product, Order, Inventory, and Notification interact and how they are orchestrated.
 
